@@ -13,7 +13,7 @@ typedef struct {
 int main() {
 
 
-    //on et pzieugfpeziu
+    //on et pzieugfpeziufgff
 
     srand(time(NULL));
     int player=1;
