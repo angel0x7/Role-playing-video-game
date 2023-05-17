@@ -13,6 +13,8 @@ typedef struct {
 int main() {
 
 
+    //on et pzieugfpeziu
+
     srand(time(NULL));
     int player=1;
     int offset1=0;
