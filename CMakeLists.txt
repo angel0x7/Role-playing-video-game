@@ -3,5 +3,5 @@ project(map_projet_algo C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(map_projet_algo main.c)
+add_executable(map_projet_algo main.c snake_jeu.h course_hipi.h)
 target_link_libraries(map_projet_algo -lmingw32 -lalleg44)
