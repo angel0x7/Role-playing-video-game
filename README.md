@@ -39,8 +39,8 @@ Les projets ont été évalués selon :
 ## 🚀 Technologies utilisées
 
 - Langage : **C / C++**
-- Graphismes : **Allegro 5**
-- IDE : [indiquer votre IDE, ex. CLion / Code::Blocks / Visual Studio]
+- Graphismes : **Allegro 4**
+- IDE 
 
 
 
