@@ -1,6 +1,6 @@
 # Projet Java ING1 2023 : ECE World
 
-Liens Utiles :  [**Sujet Original**](sujet_ECE WORLD.pdf)
+Liens Utiles :  [**Sujet**](sujet_ECE_WORLD.pdf)
 
 **Projet d'informatique en C du second semestre (ECE ING1)**
 
